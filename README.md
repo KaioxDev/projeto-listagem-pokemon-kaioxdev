@@ -1,4 +1,4 @@
-# dev-projeto-listagem-pokemon
+# projeto-listagem-pokemon
 
 /*
     O que precisamos fazer? - quando clicarmos no botão de troca de tema temos que alterar a cor do tema da página para as cores do tema claro ou do tema escuro
